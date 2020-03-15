@@ -1,0 +1,17 @@
+F:\STSWorkspace\Spatent\src\main\java\com\patent\bean\Record.java
+F:\STSWorkspace\Spatent\src\main\java\com\patent\controller\UploadController.java
+F:\STSWorkspace\Spatent\src\main\java\com\patent\SpatentApplication.java
+F:\STSWorkspace\Spatent\src\main\java\com\patent\bean\ResultBuilder.java
+F:\STSWorkspace\Spatent\src\main\java\com\patent\repository\UserRepository.java
+F:\STSWorkspace\Spatent\src\main\java\com\patent\service\IReadExcelService.java
+F:\STSWorkspace\Spatent\src\main\java\com\patent\service\ConnectDaoImpl.java
+F:\STSWorkspace\Spatent\src\main\java\com\patent\bean\JSONResult.java
+F:\STSWorkspace\Spatent\src\main\java\com\patent\controller\LoginController.java
+F:\STSWorkspace\Spatent\src\main\java\com\patent\service\IConnectDaoService.java
+F:\STSWorkspace\Spatent\src\main\java\com\patent\controller\PatentController.java
+F:\STSWorkspace\Spatent\src\main\java\com\patent\bean\Patent.java
+F:\STSWorkspace\Spatent\src\main\java\com\patent\config\UploadConfig.java
+F:\STSWorkspace\Spatent\src\main\java\com\patent\repository\IPatentRepository.java
+F:\STSWorkspace\Spatent\src\main\java\com\patent\service\ReadExcelImpl.java
+F:\STSWorkspace\Spatent\src\main\java\com\patent\bean\User.java
+F:\STSWorkspace\Spatent\src\main\java\com\patent\repository\IRecordRepository.java
